@@ -49,21 +49,14 @@ I have hands-on experience building real-world projects with a strong focus on *
 ---
 
 ## 📌 Featured Projects
-Here are some of the projects I’ve worked on:
 
-- 🔹 **Full Stack MERN Applications**
-- 🔹 **RESTful APIs with Node.js & .NET**
-- 🔹 **Flutter Mobile Applications**
-- 🔹 **Responsive Websites**
+- 🔵 **Damanah – Flutter Mobile Application**  
+  Mobile app built with Flutter focusing on clean UI and API integration.  
+  👉 https://github.com/MohammadBTelfah/Damanah
 
-➡️ Check my repositories below 👇
-
----
-## 📌 Featured Projects
-
-- 🟢 **MERN Full Stack App** – Authentication, CRUD, REST APIs
-- 🔵 **Flutter Mobile App** – Clean UI, API Integration
-- 🟣 **.NET Web API** – Secure endpoints & database integration
+- 🟢 **Talafha Store – MERN Stack Web Application**  
+  Full Stack MERN project with authentication, CRUD operations, and RESTful APIs.  
+  👉 https://github.com/MohammadBTelfah/TalafhaStore
 
 ---
 
