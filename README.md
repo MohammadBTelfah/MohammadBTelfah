@@ -1,16 +1,15 @@
-## Hi there 👋
+🎓 Computer Science Graduate – Jordan University of Science and Technology (JUST)
+💻 Full Stack Developer (MERN Stack & .NET)
 
-<!--
-**MohammadBTelfah/MohammadBTelfah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building full-stack web applications using modern technologies.
+I enjoy turning complex problems into clean, efficient, and scalable solutions.
 
-Here are some ideas to get you started:
+🔧 Skills:
+• MERN Stack (MongoDB, Express, React, Node.js)
+• .NET & RESTful APIs
+• Frontend Development (HTML, CSS, JavaScript)
+• Database Design & Integration
+• Version Control (Git & GitHub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Goal:
+To grow as a professional software engineer and contribute to impactful real-world projects.
