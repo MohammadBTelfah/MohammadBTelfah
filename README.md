@@ -59,11 +59,11 @@ Here are some of the projects I’ve worked on:
 ➡️ Check my repositories below 👇
 
 ---
-## 📊 GitHub Overview
+## 📌 Featured Projects
 
-![Followers](https://img.shields.io/github/followers/MohammadBTelfah?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/MohammadBTelfah?style=for-the-badge)
-![Public Repos](https://img.shields.io/github/repos-count/MohammadBTelfah?style=for-the-badge)
+- 🟢 **MERN Full Stack App** – Authentication, CRUD, REST APIs
+- 🔵 **Flutter Mobile App** – Clean UI, API Integration
+- 🟣 **.NET Web API** – Secure endpoints & database integration
 
 ---
 
