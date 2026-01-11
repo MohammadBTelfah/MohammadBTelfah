@@ -59,16 +59,11 @@ Here are some of the projects I’ve worked on:
 ➡️ Check my repositories below 👇
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadBTelfah&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadBTelfah&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadBTelfah&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadBTelfah&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
 
 ---
 
