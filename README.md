@@ -59,11 +59,11 @@ Here are some of the projects I’ve worked on:
 ➡️ Check my repositories below 👇
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadBTelfah&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadBTelfah&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
+![Followers](https://img.shields.io/github/followers/MohammadBTelfah?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/MohammadBTelfah?style=for-the-badge)
+![Public Repos](https://img.shields.io/github/repos-count/MohammadBTelfah?style=for-the-badge)
 
 ---
 
