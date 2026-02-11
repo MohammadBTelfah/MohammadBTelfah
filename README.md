@@ -50,14 +50,14 @@ I have hands-on experience building real-world projects with a strong focus on *
 
 ## 📌 Featured Projects
 
-- 🔵 **Damanah – Flutter Mobile Application**  
-  Mobile app built with Flutter focusing on clean UI and API integration.  
-  👉 https://github.com/MohammadBTelfah/Damanah
+- 🟣 **Masar AI – AI Roadmap Generator** An intelligent platform that generates customized learning roadmaps using Gemini AI, featuring progress tracking and glassmorphism UI.  
+  👉 [https://github.com/MohammadBTelfah/Masar-AI](https://github.com/MohammadBTelfah/Masar-AI)
 
-- 🟢 **Talafha Store – MERN Stack Web Application**  
-  Full Stack MERN project with authentication, CRUD operations, and RESTful APIs.  
-  👉 https://github.com/MohammadBTelfah/TalafhaStore
+- 🔵 **Damanah – Flutter Mobile Application** Mobile app built with Flutter focusing on clean UI and API integration.  
+  👉 [https://github.com/MohammadBTelfah/Damanah](https://github.com/MohammadBTelfah/Damanah)
 
+- 🟢 **Talafha Store – MERN Stack Web Application** Full Stack MERN project with authentication, CRUD operations, and RESTful APIs.  
+  👉 [https://github.com/MohammadBTelfah/TalafhaStore](https://github.com/MohammadBTelfah/TalafhaStore)
 ---
 
 ## 🎯 Career Goal
