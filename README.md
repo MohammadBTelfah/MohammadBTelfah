@@ -129,16 +129,48 @@ I build modern web and mobile applications using technologies such as **React, N
 
 ---
 
-## 🔝 Top Contributed Repositories
+# 🔥 Featured Projects
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MohammadBTelfah&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
+> A selection of projects that demonstrate my experience in full-stack, backend, and mobile development.
+
+### 🌐 Full Stack Web Application
+**Tech:** React • Node.js • Express.js • MongoDB • REST API
+
+A complete full-stack application featuring authentication, API integration, database management, and a responsive frontend.
+
+[View Repository](#) • [Live Demo](#)
 
 ---
 
-## 👀 Profile Views
+### ⚙️ Backend API Project
+**Tech:** .NET • REST API • JWT • SQL
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohammadBTelfah&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-</p>
+A backend-focused project built around clean API architecture, authentication, database operations, and scalable application logic.
+
+[View Repository](#)
+
+---
+
+### 📱 Mobile Application
+**Tech:** Flutter • REST API • Firebase
+
+A cross-platform mobile application with API integration, user authentication, responsive interfaces, and structured state management.
+
+[View Repository](#)
+
+---
+
+# 📚 Currently Learning & Improving
+
+- 🏗️ **Software Architecture**
+- 🧩 **System Design**
+- ⚡ **Backend Performance & Scalability**
+- 🐳 **Docker & Containerization**
+- ☁️ **Cloud Deployment**
+- 🧪 **Testing & Clean Code Practices**
+
+---
+
+### 💡 Development Philosophy
+
+> Build clean, maintainable, and practical software while continuously learning and improving.
